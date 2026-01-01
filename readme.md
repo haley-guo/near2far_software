@@ -63,6 +63,7 @@
 <p align="center"> <img src="5.png" width="600"> </p>
 远场直角坐标二维方向图（对数 / 线性）
 <p align="center"> <img src="6.png" width="600"> </p>
+---
 ## 五、应用场景
 
 - 天线近场测试数据分析
@@ -72,7 +73,7 @@
 - 天线方向图三维可视化
 
 - GPU 加速电磁计算软件原型
-
+---
 ## 六、开发环境
 
 - CUDA
@@ -80,5 +81,6 @@
 - C++ / Python
 
 - PyQt
+
 
 - OpenGL
